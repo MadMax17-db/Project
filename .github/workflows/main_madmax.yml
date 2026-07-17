@@ -52,4 +52,4 @@ jobs:
           app-name: 'Madmax'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B99C3C8BC2DF4A219E648C8BD7CB68D1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_941AE7CFF13143C39B2CDA8FA07A72BF }}
